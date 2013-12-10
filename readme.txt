@@ -18,9 +18,9 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-Are you in need of a simple way for you or your site users to create custom URL strings so that you can more easily track your marketing campaigns? This plugin is designed to do just that without requiring you to ever leave your WP dashboard.
+Want to dynamically insert keywords and phrases into your copy? This plugin comes bundled with several cool shortcodes that allow you to do just that.
 
-A page is created under Tools called URL Creator and on this page their is a simple form and information. Simply enter in some information and then copy your new URL string for use in Google Adwords, Twitter, Facebook and any other marketing channels you may utilize.
+To get value from this plugin you should be building URLs <a href="http://github.com/brashrebel/google-url-creator">using this plugin</a> and then sending traffic from various web sources to the new URLs.
 
 == Installation ==
 
@@ -28,7 +28,7 @@ A page is created under Tools called URL Creator and on this page their is a sim
 
 1. Upload to wp-content/plugins
 1. Activate in Plugins
-1. Go to Tools- - >URL Creator
+1. Go to Settings- - >Campaign Text
 1. Have a ball!
 
 
